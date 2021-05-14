@@ -1,8 +1,7 @@
 # bash-scripts
 
 ## average.sh:
-a bash script which takes arbitrary number of numbers and prints out their average.
-
+a bash script which takes arbitrary number of numbers and prints out their average.\n
 Example:
 
 $ average 10 20
